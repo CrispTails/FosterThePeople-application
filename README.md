@@ -1,2 +1,2 @@
-# Basic-MusicAPI
-For my Music app which is simplified for people new to tech
+# FTP-App
+Foster The People is really good tbh
